@@ -1,9 +1,1 @@
 
-<serverconfig>                                    
-	<servername>213.136.81.45</servername>         
-	<serverurl>/blog/attachment.php</serverurl>         
-	<serverargs>                                
-		<serverarg>attachmentid</serverarg> 
-		<serverarg>d</serverarg>            
-	</serverargs>                               
-</serverconfig>                                   
